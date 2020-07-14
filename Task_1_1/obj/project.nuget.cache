@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "oraDus10wVTiDN4/kBD2zbawGpvi9OqCSp4EjdVmXSxk1H0jrqojZ8w4Icn7Xhb3LYQkfIMLez1HI2ncJciH3A==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Kirill_Mityushchenko\\source\\repos\\Task_1_1\\Mentoring\\Task_1_1\\Task_1_1.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Kirill_Mityushchenko\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}

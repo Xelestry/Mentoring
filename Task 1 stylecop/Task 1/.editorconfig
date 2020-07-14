@@ -1,0 +1,18 @@
+# NOTE: Requires **VS2019 16.3** or later
+
+# New Rule Set
+# Description:  
+
+# Code files
+[*.{cs,vb}]
+
+
+dotnet_diagnostic.SA0000.severity = warning
+
+dotnet_diagnostic.SA1005.severity = warning
+
+dotnet_diagnostic.SA1028.severity = warning
+
+dotnet_diagnostic.SA1208.severity = warning
+
+dotnet_diagnostic.SA1210.severity = warning
